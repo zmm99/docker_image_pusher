@@ -3,7 +3,11 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64
-nginx
 mysql:8.0
 redis
+rabbitmq
+skywalking:9.0.0
+registry
+docker-registry-ui:static
+
 
