@@ -3,7 +3,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64
-nginx
-mysql:8.0
-redis
+nginx --platform=linux/amd64
+mysql:8.0 --platform=linux/amd64
+redis --platform=linux/amd64
 
