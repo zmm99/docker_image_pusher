@@ -7,7 +7,7 @@ mysql:8.0
 redis
 rabbitmq
 registry
-docker-registry-ui
+joxit/docker-registry-ui:static
 elasticsearch:7.13.2
 kibana:7.13.2
 logstash:7.13.2
