@@ -12,4 +12,5 @@ elasticsearch:7.13.2
 kibana:7.13.2
 logstash:7.13.2
 filebeat:7.13.2
-# skywalking:9.0.0
+skywalking-oap-server:8.6.0
+skywalking-ui:8.6.0
