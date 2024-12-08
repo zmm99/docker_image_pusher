@@ -12,6 +12,6 @@
 #elasticsearch:7.13.2
 #kibana:7.13.2
 #logstash:7.13.2
-docker.elastic.co/beats/filebeat:7.13.2
-skywalking-oap-server:8.6.0
+#docker.elastic.co/beats/filebeat:7.13.2
+skywalking-oap-server:8.6.0-es7
 skywalking-ui:8.6.0
