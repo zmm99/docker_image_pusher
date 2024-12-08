@@ -15,4 +15,4 @@
 #docker.elastic.co/beats/filebeat:7.13.2
 #apache/skywalking-oap-server:8.6.0-es7
 #apache/skywalking-ui:8.6.0
-postgresql
+postgres
