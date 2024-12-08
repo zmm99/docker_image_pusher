@@ -6,8 +6,10 @@
 mysql:8.0
 redis
 rabbitmq
-skywalking:9.0.0
 registry
 docker-registry-ui:static
-
-
+elasticsearch:7.13.2
+kibana:7.13.2
+logstash:7.13.2
+filebeat:7.13.2
+# skywalking:9.0.0
