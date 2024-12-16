@@ -16,4 +16,5 @@
 #apache/skywalking-oap-server:8.6.0-es7
 #apache/skywalking-ui:8.6.0
 #postgres
-kklldog/agile_config
+#kklldog/agile_config
+minio/minio
