@@ -28,7 +28,7 @@
 #langgenius/dify-sandbox:0.2.10
 #langgenius/dify-plugin-daemon:0.0.3-local
 #临时修复can't start new thread问题，https://github.com/langgenius/dify/issues/14670
-langgenius/dify-plugin-daemon:942d694206a1972ae0addd2286a021b62390a8b6-local
+#langgenius/dify-plugin-daemon:942d694206a1972ae0addd2286a021b62390a8b6-local
 #ubuntu/squid:latest
 #certbot/certbot
 #nginx:latest 已拉取
@@ -48,3 +48,8 @@ langgenius/dify-plugin-daemon:942d694206a1972ae0addd2286a021b62390a8b6-local
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
+
+#20250317_dify_1.0.1_docker_compose
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
+langgenius/dify-plugin-daemon:0.0.4-local
