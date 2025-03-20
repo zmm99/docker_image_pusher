@@ -50,6 +50,8 @@
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 #20250317_dify_1.0.1_docker_compose
-langgenius/dify-api:1.0.1
-langgenius/dify-web:1.0.1
-langgenius/dify-plugin-daemon:0.0.4-local
+#langgenius/dify-api:1.0.1
+#langgenius/dify-web:1.0.1
+#langgenius/dify-plugin-daemon:0.0.4-local
+alpine
+infiniflow/ragflow:v0.17.2-slim
