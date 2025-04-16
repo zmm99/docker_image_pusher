@@ -56,4 +56,6 @@
 #alpine
 #infiniflow/ragflow:v0.17.2-slim
 
-ghcr.io/open-webui/open-webui:main
+#ghcr.io/open-webui/open-webui:main
+ghcr.io/open-webui/open-webui:cuda
+ghcr.io/open-webui/open-webui:ollama
