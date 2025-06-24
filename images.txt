@@ -61,4 +61,4 @@
 #ghcr.io/open-webui/open-webui:ollama
 ollama/ollama
 postgres:17.5
-docker pull pgvector/pgvector:pg17
+pgvector/pgvector:pg17
