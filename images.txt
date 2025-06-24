@@ -57,5 +57,8 @@
 #infiniflow/ragflow:v0.17.2-slim
 
 #ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:cuda
-ghcr.io/open-webui/open-webui:ollama
+#ghcr.io/open-webui/open-webui:cuda
+#ghcr.io/open-webui/open-webui:ollama
+ollama/ollama
+postgres:17.5
+docker pull pgvector/pgvector:pg17
